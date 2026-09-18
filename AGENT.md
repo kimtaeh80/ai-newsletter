@@ -31,6 +31,12 @@ interests:                      # 관심사 = 탭. 추가/삭제 자유. 2~5개 
     tint: orange
     kind: role
     focus: 자연어로 표에 묻기·수식/SQL 초안·데이터 정리·결과를 쉬운 말로 설명. 'AI 결과는 사람이 검증' 원칙 강조
+  - id: venture
+    label: 벤처기업
+    icon: 💰
+    tint: purple
+    kind: role
+    focus: 벤처기업의 세금절감
 persona_context: |             # '나를 위한 한 줄'을 쓸 때 참고할 독자 맥락
   회사의 비개발 직군을 포함한 전사 임직원 누구나. 전문 용어는 풀어 쓰고,
   "이게 내 업무에 어떻게 쓰이는가"를 한 문장으로 연결할 것. 과장·홍보톤 금지.
